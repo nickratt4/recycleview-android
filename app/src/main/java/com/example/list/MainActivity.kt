@@ -1,3 +1,5 @@
+package com.example.list;
+
 import android.os.Bundle
 import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
